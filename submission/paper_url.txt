@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://pranajit04.github.io/Machine-Learning-Flyrank/
